@@ -1,3 +1,2 @@
 # deathstar
 
-ACCESS_KEY=DACWEFEWRWEORUWEO
